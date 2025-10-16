@@ -27,7 +27,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=Portfolio&theme=radical)](https://github.com/RuasCardi/Portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=polaroid-frame&theme=radical)](https://github.com/RuasCardi/polaroid-frame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=polaroid-frame&theme=radical)](https://github.com/RuasCardi/Solar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=Solar&theme=radical)](https://github.com/RuasCardi/Solar)
 
 ---
 
