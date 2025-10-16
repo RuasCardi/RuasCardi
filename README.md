@@ -37,8 +37,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=RuasCardi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuasCardi&layout=compact&theme=radical)
 
-<!-- Snake Game (cobrinha animada do GitHub) -->
-![Snake animation](https://github.com/RuasCardi/RuasCardi/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
