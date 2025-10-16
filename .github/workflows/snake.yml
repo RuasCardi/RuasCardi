@@ -2,12 +2,13 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite (UTC)
+    - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
