@@ -1,53 +1,65 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+RuasCardi!;Desenvolvedor+Fullstack;Apaixonado+por+Tecnologia+e+Inovação" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+RuasCardi!;Desenvolvedor+Fullstack;Apaixonado+por+Inovação+e+Tecnologia" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" />
-  <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=RuasCardi&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
 
-## Sobre mim
+## 👤 Sobre mim
 
 - 👨‍💻 Desenvolvedor apaixonado por tecnologia e inovação
-- 🚀 Sempre em busca de aprender algo novo
-- 💡 Gosto de desafios e projetos open source
+- 🎯 Foco em soluções práticas e criativas
+- 🚀 Amante de desafios e projetos open source
+- 💬 Sempre aprendendo algo novo!
 
 ---
 
-## 🏆 Projetos em destaque
+## 🚀 Projetos em Destaque
 
-- [Projeto Incrível](https://github.com/RuasCardi/Portfolio): Confira meu Portfolio.
-- [Outro Projeto](https://github.com/RuasCardi/polaroid-frame): Site de fotografia.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=Portfolio&theme=radical)](https://github.com/RuasCardi/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=polaroid-frame&theme=radical)](https://github.com/RuasCardi/polaroid-frame)
 
 ---
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuasCardi&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RuasCardi&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RuasCardi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuasCardi&layout=compact&theme=radical)
+
 <!-- Snake Game (cobrinha animada do GitHub) -->
 ![Snake animation](https://github.com/RuasCardi/RuasCardi/blob/output/github-contribution-grid-snake.svg)
 
-<!-- Linguagens em destaque -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuasCardi&layout=compact&theme=radical)
-
-<!-- Estatísticas do GitHub -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuasCardi&show_icons=true&theme=radical)
-
+---
 
 <!-- Ícones de linguagens -->
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
 </div>
 
 ---
 
 <p align="center">
-  <a href="mailto:cardinalliruas@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/guilherme-cardinalli-b28634363/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/grsitestec"><img src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram" /></a>
+  <a href="mailto:cardinalliruas@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/guilherme-cardinalli-b28634363/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.instagram.com/grsitestec"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
+</p>
+
+---
+
+<!-- GIF divertido (opcional) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" style="border-radius:10px;" />
 </p>
