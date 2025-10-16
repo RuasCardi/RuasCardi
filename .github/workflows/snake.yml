@@ -1,28 +1,25 @@
 name: Generate Snake Game
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # roda todo dia à meia-noite (UTC)
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Gera a cobrinha com base nas contribuições
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: RuasCardi
-          outputs: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-      - name: Faz o commit do resultado
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Upload Snake SVG
+        uses: actions/upload-artifact@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: snake
+          path: dist/github-contribution-grid-snake.svg
