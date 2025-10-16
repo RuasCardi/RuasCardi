@@ -18,7 +18,9 @@
 - 🎯 Foco em soluções práticas e criativas
 - 🚀 Amante de desafios e projetos open source
 - 💬 Sempre aprendendo algo novo!
-
+---
+<!-- Snake Game (cobrinha animada do GitHub) -->
+![Snake animation](https://github.com/RuasCardi/RuasCardi/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🚀 Projetos em Destaque
