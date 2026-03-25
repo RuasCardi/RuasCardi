@@ -86,20 +86,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-### `[ TRACKING SYSTEM ]`
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/RuasCardi/RuasCardi/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### `[ OPEN CHANNELS ]`
