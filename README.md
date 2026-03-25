@@ -1,67 +1,127 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+o+RuasCardi!;Desenvolvedor+Fullstack;Apaixonado+por+Inovação+e+Tecnologia" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://komarev.com/ghpvc/?username=RuasCardi&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
----
-
-## 👤 Sobre mim
-
-- 👨‍💻 Desenvolvedor apaixonado por tecnologia e inovação
-- 🎯 Foco em soluções práticas e criativas
-- 🚀 Amante de desafios e projetos open source
-- 💬 Sempre aprendendo algo novo!
----
-<!-- Snake Game (cobrinha animada do GitHub) -->
-![Snake animation](https://github.com/RuasCardi/RuasCardi/blob/output/github-contribution-grid-snake.svg)
----
-
-## 🚀 Projetos em Destaque
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=Portfolio&theme=radical)](https://github.com/RuasCardi/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=polaroid-frame&theme=radical)](https://github.com/RuasCardi/polaroid-frame)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=Solar&theme=radical)](https://github.com/RuasCardi/Solar)
-
----
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuasCardi&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RuasCardi&theme=radical)
-[![trophy](https://github-profile-trophy.vercel.app/?username=RuasCardi&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuasCardi&layout=compact&theme=radical)
-
-
-
----
-
-<!-- Ícones de linguagens -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=200&color=0:0d0d0d,50:0a1f0a,100:0d0d0d&text=GUILHERME%20RUAS&fontColor=39ff14&fontSize=60&fontAlignY=65&animation=fadeIn&desc=Fullstack%20Engineer%20%7C%20AI%20Systems&descFontColor=22c55e&descSize=18&descAlignY=85"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=%5BSYS%5D+Operator+authenticated+%E2%9C%94;%5BSYS%5D+Loading+stack...+.NET+%7C+Node.js+%7C+React+%7C+Python;%5BSYS%5D+Mission%3A+build+real+systems+that+scale;%5BSYS%5D+AI+automation+%E2%86%92+integrated;%5BSYS%5D+Status%3A+ONLINE+%F0%9F%9F%A2+shipping+in+progress...)](https://git.io/typing-svg)
+
+<br/>
+
+![](https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=flat-square&labelColor=0d1117)
+&nbsp;
+![](https://img.shields.io/badge/FOCUS-AI%20%2B%20FULLSTACK-39ff14?style=flat-square&labelColor=0d1117)
+&nbsp;
+![](https://komarev.com/ghpvc/?username=RuasCardi&color=39ff14&style=flat-square&label=VISITORS)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### `[ OPERATOR FILE ]`
+
+| field | data |
+|:---:|:---|
+| 🧠 **name** | Guilherme Ruas |
+| 🌍 **location** | Brasil |
+| ⚙️ **role** | Fullstack Engineer |
+| 🤖 **focus** | AI Automation · REST APIs · Scalable Systems |
+| 🛠 **stack** | .NET · Node.js · React · TypeScript · Python |
+| 🗄️ **database** | MySQL · SQL Server |
+| 🚀 **goal** | Build things that solve real problems |
+
 </div>
 
 ---
 
-<p align="center">
-  <a href="mailto:cardinalliruas@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/guilherme-cardinalli-b28634363/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://www.instagram.com/grsitestec"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
-</p>
+<div align="center">
+
+### `[ TECH ARSENAL ]`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,react,ts,js,python,mysql,git,docker&theme=dark&perline=10"/>
+
+</div>
 
 ---
 
-<!-- GIF divertido (opcional) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" style="border-radius:10px;" />
-</p>
+<div align="center">
+
+### `[ INTEL REPORT ]`
+
+<br/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuasCardi&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=aaff80&border_radius=8"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuasCardi&layout=compact&hide_border=true&bg_color=0d1117&title_color=39ff14&text_color=aaff80&border_radius=8"/>
+
+<br/><br/>
+
+[![Streak](https://streak-stats.demolab.com/?user=RuasCardi&theme=dark&hide_border=true&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=aaff80&dates=555555&border_radius=8)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+### `[ ACTIVE MISSIONS ]`
+
+<br/>
+
+<a href="https://github.com/RuasCardi/Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=Portfolio&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=aaff80&border_radius=8"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/RuasCardi/Solar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RuasCardi&repo=Solar&hide_border=true&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=aaff80&border_radius=8"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `[ TRACKING SYSTEM ]`
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/RuasCardi/RuasCardi/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `[ OPEN CHANNELS ]`
+
+<br/>
+
+<a href="mailto:cardinalliruas@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=39ff14"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/guilherme-cardinalli-b28634363/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=39ff14"/>
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1f0a,100:0d1117&height=130&section=footer&text=keep%20shipping%20%F0%9F%9A%80&fontColor=39ff14&fontSize=22&fontAlignY=72&animation=twinkling"/>
+
+</div>
