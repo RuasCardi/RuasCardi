@@ -1,101 +1,45 @@
 <div align="center">
 
-<img src="./assets/developer-os.svg" width="100%" alt="Developer OS — Guilherme Ruas"/>
+<img src="./assets/developer-os.svg" width="100%" alt="Guilherme Ruas Developer OS — Full Stack & AI Automation"/>
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-RuasCardi-14172b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RuasCardi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6246ea?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-cardinalli-b28634363/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-1d2440?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cardinalliruas@gmail.com)
+<a href="https://github.com/RuasCardi"><img src="https://img.shields.io/badge/GITHUB-12192d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/guilherme-cardinalli-b28634363/"><img src="https://img.shields.io/badge/LINKEDIN-6351bd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:cardinalliruas@gmail.com"><img src="https://img.shields.io/badge/EMAIL-172c46?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
-### `▣ /workspace/about-me`
+<!-- Project links correspond to the visual Project Explorer above. -->
+<details open>
+<summary><b>↗ OPEN PROJECTS / launch applications</b></summary>
+<br/>
 
-```yaml
-operator: Guilherme Ruas
-role: Full Stack Developer
-location: Campinas, SP · Brazil
-specialties:
-  - Web applications & REST APIs
-  - Business systems & integrations
-  - AI-powered automation
-  - Backend architecture & databases
-mission: "Build useful software, not just interfaces."
-```
+| Application | What it does | Launch |
+| :--- | :--- | :--- |
+| **FinFlow** | Finance PWA with Telegram assistant | [Open application](https://fin-flow-umber.vercel.app/agenda) |
+| **Sorteio da Pelada** | Balanced football team generator | [Open application](https://sorteioda-pelada.vercel.app/login) |
+| **F1 Dashboard** | React dashboard consuming Formula 1 data APIs | Project showcase |
+| **Business Systems** | ERP, messaging platforms, APIs and integrations | Professional experience |
 
-### `◈ /workspace/projects`
+</details>
 
-<table>
-<tr><td width="50%" valign="top">
-
-#### 💸 FinFlow
-**Personal finance PWA**
-
-Track income, expenses, schedules and financial insights, with Telegram bot integration.
-
-**Web App · PWA · Automation**
-
-[↗ Launch FinFlow](https://fin-flow-umber.vercel.app/agenda)
-
-</td><td width="50%" valign="top">
-
-#### ⚽ Sorteio da Pelada
-**Balanced football team generator**
-
-Create more balanced teams using player ratings and automated draws.
-
-**Web App · Team Management**
-
-[↗ Open app](https://sorteioda-pelada.vercel.app/login)
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-#### 🏎️ F1 Dashboard
-**Motorsport data visualization**
-
-Explore Formula 1 information through API integrations and React dashboards.
-
-**React · APIs · Data Visualization**
-
-</td><td width="50%" valign="top">
-
-#### ⚙️ Business Automation
-**Integrations & real-world systems**
-
-Experience building messaging workflows, REST APIs, ERP features and operational tools.
-
-**Node.js · PHP · Python · SQL**
-
-</td></tr>
-</table>
-
-### `⌘ /workspace/tech-stack`
-
+<details>
+<summary><b>⌘ SYSTEM TELEMETRY / GitHub activity</b></summary>
+<br/>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,python,php,dotnet,mysql,mongodb,docker,linux,git,github&theme=dark&perline=7" alt="Technology stack"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RuasCardi&show_icons=true&hide_border=true&bg_color=0b1020&title_color=a27bff&icon_color=42d9ff&text_color=d7def7" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuasCardi&layout=compact&hide_border=true&bg_color=0b1020&title_color=a27bff&text_color=d7def7" alt="Top languages"/>
 
 </div>
-
-### `▥ /workspace/telemetry`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RuasCardi&show_icons=true&hide_border=true&bg_color=0b1020&title_color=9e74ff&icon_color=42d9ff&text_color=d7def7" alt="GitHub statistics"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuasCardi&layout=compact&hide_border=true&bg_color=0b1020&title_color=9e74ff&text_color=d7def7" alt="Top languages"/>
-
-</div>
-
-### `> connect --with ruas`
+</details>
 
 <div align="center">
 
-**Have a project, integration or automation challenge?**
+**Let's build something useful.**  
+[GitHub](https://github.com/RuasCardi) · [LinkedIn](https://www.linkedin.com/in/guilherme-cardinalli-b28634363/) · [Email](mailto:cardinalliruas@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/guilherme-cardinalli-b28634363/) · [Email](mailto:cardinalliruas@gmail.com) · [GitHub](https://github.com/RuasCardi)
-
-<sub>DEVELOPER OS / profile edition · Designed to run inside GitHub README</sub>
+<sub>Designed as a single Developer OS dashboard · GitHub README compatible</sub>
 
 </div>
